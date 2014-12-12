@@ -1,0 +1,32 @@
+{
+  "name": "ngram-fingerprint",
+  "version": "1.0.0",
+  "description": "JS version of ngram-fingerprint from Open Refine",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/finnp/ngram-fingerprint"
+  },
+  "keywords": [
+    "openrefine",
+    "googleregine",
+    "ngram",
+    "fingerpring",
+    "nlp"
+  ],
+  "author": "Finn Pauls",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/finnp/ngram-fingerprint/issues"
+  },
+  "homepage": "https://github.com/finnp/ngram-fingerprint",
+  "dependencies": {
+    "asciify-string": "^0.1.1"
+  },
+  "devDependencies": {
+    "tape": "^3.0.3"
+  }
+}
